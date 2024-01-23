@@ -5,16 +5,16 @@ title: Movie Candidates
 
 ## Jared
  - The Place Beyond the Pines
- - TBD
+ - Snatch
 
 ## Jeff
- - Incendies
  - Whiplash
+ - TBD
 
 ## Jon
  - The Nice Guys
- - They Cloned Tyrone
+ - TBD
  
 ## Nick
  - Baby Driver
- - Fear and Loathing in Las Vegas
+ - TBD
