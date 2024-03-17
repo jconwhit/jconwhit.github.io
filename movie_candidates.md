@@ -4,17 +4,17 @@ title: Movie Candidates
 ---
 
 ## Jared
- - The Place Beyond the Pines
+ - Under the Skin
  - Snatch
 
 ## Jeff
- - Whiplash
+ - TBD
  - TBD
 
 ## Jon
- - The Nice Guys
+ - TBD
  - TBD
  
 ## Nick
- - Baby Driver
+ - TBD
  - TBD

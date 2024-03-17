@@ -4,6 +4,46 @@ title: Movie List
 ---
 <div class="movie_row">
    <div class="movie_tile">
+      <!-- Inglourious Basterds -->
+      <a href="https://www.imdb.com/title/tt0361748/">
+         <img src="https://m.media-amazon.com/images/M/MV5BOWQ5ODU2N2QtMTZhNi00OTMzLWFkZDgtMDM2ZTI1NGJmMmY2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UY3000_.jpg"/>
+      </a>
+   </div>
+   <div class="movie_tile">
+      <!-- Baby Driver -->
+      <a href="https://www.imdb.com/title/tt3890160/">
+         <img src="https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_FMjpg_UY2048_.jpg"/>
+      </a>
+   </div>
+   <div class="movie_tile">
+      <!-- The Nice Guys -->
+      <a href="https://www.imdb.com/title/tt3799694/">
+         <img src="https://m.media-amazon.com/images/M/MV5BODNlNmU4MGItMzQwZi00NGQyLWEyZWItYjFkNmI0NWI4NjBhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1012_.jpg"/>
+      </a>
+   </div>
+</div>
+<div class="movie_row">
+   <div class="movie_tile">
+      <!-- Parasite -->
+      <a href="https://www.imdb.com/title/tt6751668/">
+         <img src="https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UY3556_.jpg"/>
+      </a>
+   </div>
+   <div class="movie_tile">
+      <!-- Snowpiercer -->
+      <a href="https://www.imdb.com/title/tt1706620/">
+         <img src="https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_FMjpg_UY2048_.jpg"/>
+      </a>
+   </div>
+   <div class="movie_tile">
+      <!-- Whiplash -->
+      <a href="https://www.imdb.com/title/tt2582802/">
+         <img src="https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UY5333_.jpg"/>
+      </a>
+   </div>
+</div>
+<div class="movie_row">
+   <div class="movie_tile">
       <a href="https://www.imdb.com/title/tt1255953/">
          <img src="https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1200_.jpg"/>
       </a>
